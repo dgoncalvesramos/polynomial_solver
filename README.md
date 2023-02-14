@@ -7,5 +7,5 @@ A simple python script used to complete a [challenge](https://www.root-me.org/en
 ## Running
  `python3 polynomial_solver.py` 
 
-The project was built on python 3. You need to be log on on root-me.org to launch the script
+The project was built on python 3. You need to be log in on root-me.org to launch the script
 
